@@ -85,7 +85,7 @@ Connect to RPI (note that IP address might be different - this depends on networ
 
 Now You have a separeate window inside the terminator that controlles Raspberry, therefore Tx notation corresponds to input into this window.
 
-3TA)  roslaunch turtlebot3_bringup turtlebot3_robot.launch
+3T)  roslaunch turtlebot3_bringup turtlebot3_robot.launch
 
 4R) roslaunch turtlebot3_bringup turtlebot3_remote.launch
 
