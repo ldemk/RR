@@ -1,4 +1,4 @@
-# RR
+# HaRoN
 The goal of this educational project is to develop a rescue robot.
 
 [![License](https://img.shields.io/github/license/ucuapps/robert.svg)](https://github.com/ucuapps/robert/blob/kinetic-devel/LICENSE)
