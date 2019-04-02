@@ -14,6 +14,6 @@
     local-name: turtlebot3_msgs
 
 - git:
-    uri: https://github.com/ldemk/RR.git
+    uri: https://github.com/ldemk/rr.git
     version: kinetic-devel
     local-name: rr
