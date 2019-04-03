@@ -15,5 +15,4 @@
 
 - git:
     uri: https://github.com/ldemk/haron.git
-    version: kinetic-devel
     local-name: haron
