@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <package>
-  <name>rr_launch</name>
+  <name>haron_launch</name>
   <version>0.0.1</version>
-  <description>The rr_launch package</description>
+  <description>The haron_launch package</description>
   <maintainer email="todo@todo.todo">ToDo</maintainer>
   <license>MIT</license>
 
