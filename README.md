@@ -109,5 +109,14 @@ After this step You can close 1R and 2R from mapping.
 
 1R) roslaunch turtlebot3_navigation turtlebot3_navigation.launch map_file:=$HOME/map.yaml
 
+# Active Slam packeges:
+info available at https://github.com/hrnr/m-explore
+Documentation for API: http://wiki.ros.org/explore_lite
+1R) sudo apt install ros-${ROS_DISTRO}-explore-lite
+2R) roslaunch explore_lite explore.launch
+# Frontier explore package (one where you need define explore area by setting points manually):
+https://github.com/paulbovbel/frontier_exploration/tree/melodic-devel/frontier_exploration
+http://wiki.ros.org/frontier_exploration (guideline available there)
+
 # Troubleshooting
 See wiki for Troubleshooting
